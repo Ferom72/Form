@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "type": "text",
+        "question" : "What is the color of the sky?"
+    },
+    {
+        "id": 2,
+        "type": "text",
+        "question": "What is 2+2?"
+    },
+    {
+        "id": 3,
+        "type": "text",
+        "question": "Should I go for a walk after this?"
+    },
+    {
+        "id": 4,
+        "type": "radio",
+        "question": "This list contains 1,2,and 3",
+        "answer1" : 1,
+        "answer2" : 2,
+        "answer3" : 3
+    },
+    {
+        "id":"5",
+        "type":"text",
+        "question":"Whats your favorite place to hangout?"
+    },
+    {
+        "id":6,
+        "type":"radio",
+        "question":"Whats your favorite type of Language?",
+        "answer1":"HTML",
+        "answer2":"CSS",
+        "answer3":"JavaScript"
+    },
+    {
+        "id":7,
+        "type":"checkbox",
+        "question": "Check all that apply",
+        "answer1":"I like Dogs",
+        "answer2":"I like Cats",
+        "answer3":"I like Birds"
+    }
+]
